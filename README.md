@@ -1,8 +1,9 @@
 # DIU23
 Prácticas Diseño Interfaces de Usuario 2022-23
 
-Grupo: DIU-QL-A3.  Curso: 2022/23 
-Updated: 11/1/2023
+Grupo: DIU3-QL.  
+Curso: 2022/23 
+Updated: 13/3/2023
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
