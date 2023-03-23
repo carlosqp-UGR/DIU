@@ -34,6 +34,8 @@ Miembros
 -----
 
 >>> Hemos comparado entre tres talleres artesanos similares de la ciudad de Granada y vistos sus similitudes y diferencias. 
+![Competitive Analysis](P1/Competitive Analysis.pdf)
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
