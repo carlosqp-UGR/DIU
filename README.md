@@ -33,16 +33,15 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Hemos comparado entre tres talleres artesanos similares de la ciudad de Granada y vistos sus similitudes y diferencias. 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Las personas que hemos elegidos se diferencian en la edad pero comparten rasgos y aficiones que son compatibles con la idea de negocio del taller.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
