@@ -1,7 +1,7 @@
 # DIU23
 Prácticas Diseño Interfaces de Usuario 2022-23
 
-Grupo: DIU3-QL.  
+Grupo: DIU3.QL  
 Curso: 2022/23 
 Updated: 13/3/2023
 
@@ -21,26 +21,33 @@ Miembros
 
 ----- 
 
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
+
+![Método UX](img/Competitive.png) 1.0 Empathy Map
+-----
+>>> La página a analizar es la siguiente: Artesanía Nazarí https://artesanianazari.es/ 
+>>> 
+![Empathy Map](P1/EmpathyMap.png)
+
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
 >>> Hemos comparado entre tres talleres artesanos similares de la ciudad de Granada y vistos sus similitudes y diferencias. 
-![Competitive Analysis](P1/Competitive Analysis.pdf)
+>>> 
+![Competitive Analysis](P1/CompetitorAnalysis.png)
 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 >>> Las personas que hemos elegidos se diferencian en la edad pero comparten rasgos y aficiones que son compatibles con la idea de negocio del taller.
+>>> 
+![Marko](P1/Persona1.png)
+
+![Rosalia](P1/Persona2.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
