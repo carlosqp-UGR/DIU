@@ -52,13 +52,17 @@ Miembros
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Son bastante frecuentes puesto que la gente en Granada siempre busca culturizarse y hay gran cantidad de turistas extranjeros
+
+![Marko](P1/Persona1_JourneyMap.png)
+
+![Rosalia](P1/Persona2_JourneyMap.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
+>>> - Enlace al documento: (P1/Usability-review-template.xlsx)
 >>> - Valoración final (numérica): 68
 >>> - Comentario sobre la valoración: En general la página está muy decorada y aunque para gente que no se entienda muy bien con las tecnologías puede resultar un poco complicada de utilizar.
 
