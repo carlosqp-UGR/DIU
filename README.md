@@ -60,8 +60,7 @@ Miembros
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
+>>>  Revisión de usabilidad:
 >>> - Enlace al documento: [(P1/Usability-review-template.xlsx)](https://github.com/carlosqp-UGR/DIU/blob/master/P1/Usability-review-template.xlsx)
 >>> - Valoración final (numérica): 68
 >>> - Comentario sobre la valoración: En general la página está muy decorada y aunque para gente que no se entienda muy bien con las tecnologías puede resultar un poco complicada de utilizar.
