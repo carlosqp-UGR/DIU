@@ -59,8 +59,8 @@ Miembros
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Valoración final (numérica): 68
+>>> - Comentario sobre la valoración: En general la página está muy decorada y aunque para gente que no se entienda muy bien con las tecnologías puede resultar un poco complicada de utilizar.
 
 
 ## Paso 2. UX Design  
