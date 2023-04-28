@@ -5,6 +5,9 @@
 * Mapa de empatía
 * Point of View 
 
+![Malla receptora](./1%20-%20Ideacion/malla%20receptora.png)
+
+
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
