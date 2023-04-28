@@ -86,19 +86,20 @@ Miembros
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
 
-
+2.a Ideacion - malla receptora
+![Malla receptora](P2/1%20-%20Ideacion/malla%20receptora.png)
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+![Propuesta de valor](P2/2%20-%20Propuesta%20de%20Valor/propuesta%20de%20valor.png)
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+![Método UX](img/Sitemap.png) 2.cTasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![Matriz de tareas de usuario](P2/3%20-%20Analisis%20de%20Tareas/matriz%20tareas%20usuario.png)
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+![Método UX](img/labelling.png) 2.d IA: Sitemap + Labelling 
 ----
 
 
