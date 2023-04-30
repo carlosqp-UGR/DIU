@@ -20,9 +20,13 @@
 
 
 ### ARQUITECTURA DE INFORMACIÓN
-
 * Sitemap 
+
+![Mapa de sitio](./4%20-%20Mapa%20de%20sitio%20y%20etiquetado/sitemap.png)
+
 * Labelling 
+
+![Etiquetado](./4%20-%20Mapa%20de%20sitio%20y%20etiquetado/labelling.png)
 
 
 ### Prototipo Lo-FI Wireframe 
