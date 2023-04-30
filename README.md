@@ -109,6 +109,9 @@ Término | Significado
 | ------------- | -------
   Login¿?  | acceder a plataforma
 
+![Mapa de sitio](./P2/4%20-%20Mapa%20de%20sitio%20y%20etiquetado/sitemap.png)
+
+![Etiquetado](./P2/4%20-%20Mapa%20de%20sitio%20y%20etiquetado/labelling.png)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
