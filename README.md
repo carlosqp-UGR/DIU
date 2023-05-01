@@ -114,6 +114,10 @@ Término | Significado
 ![Etiquetado](./P2/4%20-%20Mapa%20de%20sitio%20y%20etiquetado/labelling.png)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
+
+![Talleres](./P2/5%20-%20Bocetos/Talleres.png)
+
+![Visita al taller](./P2//5%20-%20Bocetos/Visita%20al%20Taller.png)
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
