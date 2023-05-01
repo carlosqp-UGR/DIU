@@ -30,7 +30,13 @@
 
 
 ### Prototipo Lo-FI Wireframe 
+* Página que aparece en la sección "Taller" en las que aparecen las diferentes opciones de visita
 
+![Talleres](./5%20-%20Bocetos/Talleres.png)
+
+* Una vez seleccionado el taller entramos en su sección en la que encontramos las fechas, descuentos, valoración, descripción detallada y comentarios. La opición de añadir una valoración aparece tras la compra
+
+![Visita al taller](./5%20-%20Bocetos/Visita%20al%20Taller.png)
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+En esta práctica se ha mejorado la página añadiendo nuevas funcionalidades y una estructura más apropiada
