@@ -130,16 +130,27 @@ Término | Significado
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>> El moooboard ha sido diseñado con figma en el cual figuran:
+
+1.- Lopotipos: Hay diferentes diseños del logotipo para combinar con todos los fondos e incluso para su uso en cabecera de redes sociales como Twitter. Diseñados en canva
+
+2.- Tipografía: Tipo de letra que será utilizada en la página.
+
+3.- Paleta de colores: todos los colores que darán decoración a la web.
+
+4.- Imágenes.
+
+![Moodboard](./P3/1%20-%20MoodBoard/Moodboard.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
->>> Plantear Landing Page 
+>>> La Landing Page ha sido diseñada con canva y nos presenta la página web con acceso a sus redes sociales. Consta de un título y un subtítulo motivador, una foto que sirve como 
+>>> introducción a la web y un botón de acceso usando los colores y fuentes de letra del moodboard.
+
+![Landing Page](./P3/2%20-%20Landing%20Page/Landing%20Page.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
