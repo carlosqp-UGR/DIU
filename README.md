@@ -130,15 +130,19 @@ Término | Significado
 -----
 
 
->>> El moooboard ha sido diseñado con figma en el cual figuran:
+>>> El moooboard ha sido diseñado con Figma en el cual figuran:
 
 1.- Lopotipos: Hay diferentes diseños del logotipo para combinar con todos los fondos e incluso para su uso en cabecera de redes sociales como Twitter. Diseñados en canva
 
-2.- Tipografía: Tipo de letra que será utilizada en la página.
+![logo](./P3/1%20-%20MoodBoard/logo.png)
 
-3.- Paleta de colores: todos los colores que darán decoración a la web.
+2.- Tipografía: Tipo de letra que será utilizada en la página. Hemos escogido dos tipografías: Cairo y Lateef. La combinación de ambas es muy fiel a la temática nazarí que se quiere transmitir tanto en el producto como en la UI.
 
-4.- Imágenes.
+3.- Paleta de colores: Todos los colores que darán decoración a la web. Hemos optado por los colores cálidos, que recuerdan a la arcilla, la cerámica, el pasado, la tradición.
+
+![paleta](./P3/1%20-%20MoodBoard/paleta.png)
+
+4.- Imágenes. Nos sirven como inspiración para la página (ver imágenes en el MoodBoard).
 
 ![Moodboard](./P3/1%20-%20MoodBoard/Moodboard.png)
 
@@ -146,8 +150,7 @@ Término | Significado
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
->>> La Landing Page ha sido diseñada con canva y nos presenta la página web con acceso a sus redes sociales. Consta de un título y un subtítulo motivador, una foto que sirve como 
+>>> La Landing Page ha sido diseñada con Figma y nos presenta la página web con acceso a sus diferentes páginas/secciones principales. Consta de un título y un subtítulo motivador, una foto que sirve como 
 >>> introducción a la web y un botón de acceso usando los colores y fuentes de letra del moodboard.
 
 ![Landing Page](./P3/2%20-%20Landing%20Page/Landing%20Page.png)
@@ -155,8 +158,15 @@ Término | Significado
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> Tras informarnos acerca de los patrones de diseño y guidelines hemos decidido añadir:
+
+>>>>Formularios de entrada para que el usuario pueda seleccionar la visita que más le convenga de la forma más cómoda posible.
+
+>>>>Un scroleable para organizar de una manera mas ordenada la galería de fotos del taller así como de algunas actividades de visita.
+
+>>>>El landing page, que inicialmente no lo habíamos planteado.
+
+>>>>Una tipografía clara y acorde con la temática.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
