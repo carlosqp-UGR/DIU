@@ -184,6 +184,7 @@ Término | Significado
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
+>>> Si hace click en la imagen posterior se le mandará a un enclace del video en el que se ve qué ofrece la página web. En el video se puede ver como se accede a la sección de quiénes somos así como algunas de sus subecciones. También está disponible la sección del taller en la que se ve un prototipo de cómo se anunciarían los mismos y una de las páginas de visita de uno de ellos.
 [![CaseStudy](./P3/4%20-%20Layout%20Hi-Fi/Landing%20Page.png)](./P3/5%20-%20CaseStudy/CaseStudy.mp4)
 
 ## Paso 4. Evaluación 
