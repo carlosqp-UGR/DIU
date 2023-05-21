@@ -184,7 +184,7 @@ Término | Significado
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
+![CaseStudy](./P3/4%20-%20Layout%20Hi-Fi/Landing%20Page.png)(./P3/5%20-%20CaseStudy/CaseStudy.mp4)
 
 ## Paso 4. Evaluación 
 
