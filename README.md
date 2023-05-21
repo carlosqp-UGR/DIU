@@ -173,13 +173,17 @@ Término | Significado
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
+![Landing Page](./P3/4%20-%20Layout%20Hi-Fi/Landing%20Page.png)
+![Landing Page](./P3/4%20-%20Layout%20Hi-Fi/Home.png)
+![Landing Page](./P3/4%20-%20Layout%20Hi-Fi/Quienes%20Somos.png)
+![Landing Page](./P3/4%20-%20Layout%20Hi-Fi/Descripcion.png)
+![Landing Page](./P3/4%20-%20Layout%20Hi-Fi/Taller.png)
+![Landing Page](./P3/4%20-%20Layout%20Hi-Fi/Info%20Taller.png)
+
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
 ## Paso 4. Evaluación 
