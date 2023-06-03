@@ -194,42 +194,25 @@ Término | Significado
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
+>>> El caso B asignado ha sido el del grupo DIU1_01LosTardios. Se trata de una página de tablao flamenco. Su diseño se puede encontrar en su repositorio de GitHub.
+>>> [DIU1_01LosTardios](https://github.com/marcoant5/DIU1)
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
+>>> Las personas ficticias que realizarán el cuestionario SUS se encuentran descritas en el archivo de rol de usuarios en la carpeta de la Práctica 4.
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-
+>>> [P4/rol usuarios.pdf](https://github.com/carlosqp-UGR/DIU/blob/9b466e3fbec343068e9fcfae738c171c6e851638/P4/rol%20usuarios.pdf)
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+>>> Los cuestionarios SUS realizados por parte de los usuarios ficticios se pueden encontrar tanto para nuestra página (página A, usuarios 1 y 2) como para la de nuestros compañeros (página B, usuarios 3 y 4) así como las valoraciones de estos en el siguiente archivo:
+>>> [P4/Cuestionario SUS DIU.xlsx](https://github.com/carlosqp-UGR/DIU/blob/9b466e3fbec343068e9fcfae738c171c6e851638/P4/Cuestionario%20SUS%20DIU.xlsx)
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
-
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
-
+>>> Este apartado nuevamente se encuentra en el directorio de la práctica 4, en el archivo correspondiente, junto con nuestra valoración de la página B:
+>>> [P4/P4_UsabReport_DIU1.01LosTardíos_doneby_DIU3_QL.pdf](https://github.com/carlosqp-UGR/DIU/blob/9b466e3fbec343068e9fcfae738c171c6e851638/P4/P4_UsabReport_%20DIU1.01LosTard%C3%ADos_doneby_DIU3_QL.docx.pdf)
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
